@@ -5,6 +5,7 @@
 #include <netinet/in.h>
 #include <unistd.h>
 
+// This is Server program
 
 #define PORT 2121
 using namespace std;
